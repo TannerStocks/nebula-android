@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "729667186513",
+    "firebase_url": "https://retro-messenger.firebaseio.com",
+    "project_id": "retro-messenger",
+    "storage_bucket": "retro-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729667186513:android:e119588ad4a40e94",
+        "android_client_info": {
+          "package_name": "Retro_Messenger.Retro_Messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729667186513-ch9ekqf4ce77o3gskn9sch8ebokkkmad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHu6RB_1_bYTjyC8853TMqo40DhQawzWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729667186513:android:79f5f46866fbd696",
+        "android_client_info": {
+          "package_name": "com.Nebula.Messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729667186513-ch9ekqf4ce77o3gskn9sch8ebokkkmad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHu6RB_1_bYTjyC8853TMqo40DhQawzWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

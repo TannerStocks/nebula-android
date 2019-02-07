@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--hsl(329, 100%, 34%) or (219, 240, 81), rgb(172, 0, 90)-->
+<!--hsl(206, 100%, 39%) or (137, 240, 93), rgb(0, 112, 197)-->
+<!--95%-->
+<!--85%-->
+<!--75%-->
+<!--20%-->
+<!--15%-->
+<resources>
+    <color name="colorPrimary">#ac005a</color>
+    <color name="colorAccent">#0070c5</color>
+
+    <color name="colorPrimaryVeryLight">#ffeef7</color>
+    <color name="colorPrimaryLight">#ffb3da</color>
+    <color name="colorPrimaryMediumLight">#ff80c1</color>
+    <color name="colorPrimaryMediumDark">#660035</color>
+    <color name="colorPrimaryDark">#4d0028</color>
+  
+    <color name="colorAccentClear">#220070c5</color>
+    <color name="colorAccentVeryLight">#eef8ff</color>
+    <color name="colorAccentLight">#b3deff</color>
+    <color name="colorAccentMediumLight">#80c8ff</color>
+    <color name="colorAccentMediumDark">#003a66</color>
+    <color name="colorAccentDark">#002b4d</color>
+
+    <color name="colorError">#cc0000</color>
+
+</resources>

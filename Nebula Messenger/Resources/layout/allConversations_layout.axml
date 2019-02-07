@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<LinearLayout
+		android:orientation="vertical"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		<android.support.v7.widget.Toolbar
+			android:id="@+id/toolbar"
+			android:minHeight="?android:attr/actionBarSize"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:elevation="4dp"
+			app:title="Conversations"
+			android:background="@color/colorPrimaryMediumDark"
+			app:titleTextColor="#fff"  />
+		<android.support.design.widget.TabLayout
+			android:id="@+id/sliding_tabs"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			app:tabGravity="fill"
+			app:tabMode="fixed"
+			android:elevation="4dp"
+			android:background="@color/colorPrimaryMediumDark"
+			app:tabTextColor="#9fff"
+			app:tabIndicatorColor="#fff"
+			app:tabSelectedTextColor="#fff" />
+		<android.support.v4.view.ViewPager
+			android:id="@+id/viewpager"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent" />
+	</LinearLayout>
+	<android.support.design.widget.FloatingActionButton
+		android:id="@+id/addButton"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="bottom|end"
+		android:layout_margin="17dp"
+		android:src="@drawable/sharp_add_white_24" />
+</android.support.design.widget.CoordinatorLayout>
