@@ -168,7 +168,9 @@ namespace Nebula_Messenger.Server
                 }
                 public Group[] groups;
             }
-        }*/
+        }
+        
+         Thomas Baskin was here*/
         public static class Conversations
         {
             const string root = "conversations";
